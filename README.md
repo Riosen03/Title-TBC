@@ -14,8 +14,8 @@
 3. 예측 모델을 사용하여 강화 비용 최소 시간대 추천
 
 - **참고 자료&사이트**
-> 로아차트(https://loachart.com/chart) - API 및 시세 정보
-  아이스펭(https://loa.icepeng.com/) - 강화 필요 재료 소모량 data
+> [로아차트](https://loachart.com/chart) - API 및 시세 정보
+   [아이스펭](https://loa.icepeng.com/) - 강화 필요 재료 소모량 data
 
 # 목표
 
